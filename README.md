@@ -27,7 +27,7 @@ A full-stack task management web application built with Node.js, React, and Mong
 - JWT for authentication
 - bcrypt for password hashing
 
-### Frontend (Coming Soon)
+### Frontend 
 - React
 - Redux for state management
 - Axios for API calls
